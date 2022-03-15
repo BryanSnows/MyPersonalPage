@@ -8,7 +8,6 @@ function Sobre() {
        <p className={styles.p}>Trabalho usando tecnologia React e TypeScript e estou procurando por novas experiências nas mesmas.</p>
        <p className={styles.p}>ALGUM PROJETO EM MENTE ? ENTRA EM CONTATO COMIGO!!!!!!</p>
     </div>
-    <h1>test</h1>
     
     )
 
