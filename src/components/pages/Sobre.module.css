@@ -1,0 +1,29 @@
+
+.div {
+    color: aliceblue;
+    padding: 4em;
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+    /* adicionando imagem de fundo */
+    background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2TWAitwLJDr48rBy5rBWuJzxvuUGpXVpVXw&usqp=CAU');
+    background-size: auto;
+    
+}
+
+.strong {
+    color: rgb(67, 12, 83);
+    background-color: rgb(176, 90, 197);
+}
+
+.p {
+    text-align: center;
+    font-size: 30px;
+
+}
+
+.h1 {
+    text-align: center;
+    font-size: 40px;
+
+}

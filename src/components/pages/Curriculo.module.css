@@ -1,0 +1,23 @@
+.btn {
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    
+
+}
+.btn:hover {
+    color: #a333ff;
+}
+
+.btnt {
+    padding: 100px 350px;
+    border-radius: 6px;
+    font-size: 18px;
+    text-align: center;
+}
+.fundo {
+    width: 100%;
+  margin: -20%;
+  
+    
+
+}
